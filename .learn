@@ -1,5 +1,6 @@
 tags:
-  - puts
+  - puts "Welcome to Tic Tac Toe"
+  learn
   - tictactoe
 languages:
   - ruby
